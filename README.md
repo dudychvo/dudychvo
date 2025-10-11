@@ -29,7 +29,7 @@ Here are some of the things I’ve been working on:
 ## 📫 Contact Me
 I’m always happy to connect and chat about projects or ideas:  
 - Email: [dudychvo@gmail.com]  
-- LinkedIn: [your-linkedin]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/volodymyr-dudych-8309b0292/))  
+- LinkedIn: [https://www.linkedin.com/in/volodymyr-dudych-8309b0292/)  
 - ...
 
 ---
