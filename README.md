@@ -31,8 +31,3 @@ I’m always happy to connect and chat about projects or ideas:
 - Email: [dudychvo@gmail.com]  
 - LinkedIn: [https://www.linkedin.com/in/volodymyr-dudych-8309b0292/)  
 - ...
-
----
-
-## ⚡ Fun Fact
-I love solving programming challenges and experimenting with new tech — it keeps coding fun!
