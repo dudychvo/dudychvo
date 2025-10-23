@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Volodymyr
 
 I'm a **Frontend Developer** who loves turning ideas into interactive, responsive web apps.  
-I mainly work with **React**, **TypeScript**, and **CSS**, and I’m always tinkering to make my interfaces cleaner and more user-friendly.  
+I mainly work with **React**, **TypeScript**, and **SCSS**, and I’m always tinkering to make my interfaces cleaner and more user-friendly.  
 
 ---
 
@@ -12,7 +12,7 @@ When I’m not coding, you’ll probably find me exploring new web technologies,
 ---
 
 ## 🚀 Skills
-- **Frontend:** React, TypeScript, JavaScript, CSS  
+- **Frontend:** React, TypeScript, JavaScript, SCSS  
 - **Tools & Workflow:** Git, VS Code, Prettier, ESLint  
 - **Other:** Responsive design, accessibility, basic UI/UX principles  
 
