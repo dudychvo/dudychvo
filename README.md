@@ -21,7 +21,7 @@ When I’m not coding, you’ll probably find me exploring new web technologies,
 ## 📂 Projects
 Here are some of the things I’ve been working on:  
 - **Personal Portfolio Website** – shows off my projects and skills  
-- **To-Do App** – a small project to practice React and state management  
+- **Pokemon-list** – a small project to practice RESTful API
 - ...
 
 ---
