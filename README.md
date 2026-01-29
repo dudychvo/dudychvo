@@ -30,5 +30,6 @@ Here are some of the things I’ve been working on:
 ## 📫 Contact Me
 I’m always happy to connect and chat about projects or ideas:  
 - Email: [dudychvo@gmail.com]  
+- Phome: [+44 7402999060]
 - LinkedIn: [https://www.linkedin.com/in/volodymyr-dudych-8309b0292/)  
-- ...
+
