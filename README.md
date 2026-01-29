@@ -20,9 +20,9 @@ When I’m not coding, you’ll probably find me exploring new web technologies,
 
 ## 📂 Projects
 Here are some of the things I’ve been working on:  
-- **Personal Portfolio Website** – shows off my projects and skills  
-- **Pokemon-list** – a small project to practice RESTful API
-- **Weather** – a small project to practice RESTful API
+- **Tea Ceremony** – project to practice TS and API usage
+- **Pokemon-list** – project to practice RESTful API and TS
+- **Weather** – project to practice RESTful API
 - **Task Heroes** – freelance; project for one of the clients
 
 ---
