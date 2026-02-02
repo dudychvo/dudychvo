@@ -1,12 +1,12 @@
 # Volodymyr Dudych
-**Frontend Developer** | London, UK | React • TypeScript • SCSS
+Frontend Developer | London, UK | React • TypeScript • SCSS
 
-👋 Experienced frontend developer specializing in interactive, responsive web applications. I excel at building performant UIs with React, TypeScript, and SCSS, ensuring seamless user experiences across devices.
+👋 Frontend developer crafting interactive, responsive web apps. I specialize in performant UIs with React, TypeScript, and SCSS for seamless experiences across all devices.
 
 ## 🛠️ Technical Skills
 - **Core Stack:** React, TypeScript, JavaScript, SCSS (modules)
 - **Tools:** Git, VS Code, Prettier, ESLint
-- **Focus Areas:** Responsive design, Accessibility (a11y), UI/UX principles, RESTful APIs
+- **Focus Areas:** Responsive design, UI/UX principles, RESTful APIs
 
 ## 📂 Featured Projects
 - **Tea Ceremony**  
