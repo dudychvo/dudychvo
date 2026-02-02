@@ -26,7 +26,7 @@ Frontend Developer | London, UK | React • TypeScript • SCSS
 Open to new opportunities in frontend development.  
 📧 dudychvo@gmail.com  
 📱 +44 7402 999060      
-🔗 [linkedin.com/in/volodymyr-dudych-8309b0292]  
+🔗 [https://www.linkedin.com/in/volodymyr-dudych-8309b0292/]  
 🌐 [https://github.com/dudychvo]
 
 #frontend #reactjs #typescript #webdevelopment
