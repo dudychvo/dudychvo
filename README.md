@@ -10,13 +10,13 @@
 
 ## 📂 Featured Projects
 - **Tea Ceremony**  
-  Tea shop app integrating TypeScript, SCSS modules, and AI APIs for dynamic recommendations. *Tech: React, TS, SCSS* | *Live demo: [link]*
+  Tea shop app integrating TypeScript, SCSS modules, and AI APIs for dynamic recommendations. *Tech: React, TS, SCSS* | *Live demo: [https://tea-three-neon.vercel.app/]*
 
 - **Pokémon List**  
-  Interactive directory with TypeScript, search/filtering, and RESTful API integration. *Tech: React, TS, SCSS, REST APIs* | *Live demo: [link]*
+  Interactive directory with TypeScript, search/filtering, and RESTful API integration. *Tech: React, TS, SCSS, REST APIs* | *Live demo: [https://pokemon-six-snowy.vercel.app/]*
 
 - **Weather Dashboard**  
-  Real-time weather app with responsive design and API data visualization. *Tech: React, TS, SCSS, REST APIs* | *Live demo: [link]*
+  Real-time weather app with responsive design and API data visualization. *Tech: React, TS, SCSS, REST APIs* | *Live demo: [https://the-weather-rho.vercel.app/]*
 
 - **Task Heroes** (Freelance)  
   Handyman service website connecting users with home repair/maintenance tasks. Features service listings, task browsing, and direct owner contact forms. *Built with scalable React components and responsive design for seamless user experience.*
