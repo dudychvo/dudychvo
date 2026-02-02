@@ -1,35 +1,33 @@
-# 👋 Hi there! I'm Volodymyr
+# Volodymyr Dudych
+**Frontend Developer** | London, UK | React • TypeScript • SCSS
 
-I'm a **Frontend Developer** who loves turning ideas into interactive, responsive web apps.  
-I mainly work with **React**, **TypeScript**, and **SCSS**, and I’m always tinkering to make my interfaces cleaner and more user-friendly.  
+👋 Experienced frontend developer specializing in interactive, responsive web applications. I excel at building performant UIs with React, TypeScript, and SCSS, ensuring seamless user experiences across devices.
 
----
+## 🛠️ Technical Skills
+- **Core Stack:** React, TypeScript, JavaScript, SCSS (modules)
+- **Tools:** Git, VS Code, Prettier, ESLint
+- **Focus Areas:** Responsive design, Accessibility (a11y), UI/UX principles, RESTful APIs
 
-## 💻 About Me
-I’m passionate about building things people actually enjoy using.  
-When I’m not coding, you’ll probably find me exploring new web technologies, learning something new to improve my skills or just chilling.
+## 📂 Featured Projects
+- **Tea Ceremony**  
+  Tea shop app integrating TypeScript, SCSS modules, and AI APIs for dynamic recommendations. *Tech: React, TS, SCSS* | *Live demo: [link]*
 
----
+- **Pokémon List**  
+  Interactive directory with TypeScript, search/filtering, and RESTful API integration. *Tech: React, TS, SCSS, REST APIs* | *Live demo: [link]*
 
-## 🚀 Skills
-- **Frontend:** React, TypeScript, JavaScript, SCSS  
-- **Tools & Workflow:** Git, VS Code, Prettier, ESLint  
-- **Other:** Responsive design, accessibility, basic UI/UX principles  
+- **Weather Dashboard**  
+  Real-time weather app with responsive design and API data visualization. *Tech: React, TS, SCSS, REST APIs* | *Live demo: [link]*
 
----
+- **Task Heroes** (Freelance)  
+  Handyman service website connecting users with home repair/maintenance tasks. Features service listings, task browsing, and direct owner contact forms. *Built with scalable React components and responsive design for seamless user experience.*
 
-## 📂 Projects
-Here are some of the things I’ve been working on:  
-- **Tea Ceremony** – project to practice TS, SCSS modules and AI API usage
-- **Pokemon-list** – project to practice TS and RESTful API
-- **Weather** – project to practice TS, SCSS and RESTful API
-- **Task Heroes** – freelance; project for one of the clients
 
----
+## 📫 Get in Touch
+Open to new opportunities in frontend development.  
+📧 dudychvo@gmail.com  
+📱 +44 7402 999060  
+🔗 linkedin.com/in/volodymyr-dudych-8309b0292  
+🌐 [Portfolio/GitHub link]
 
-## 📫 Contact Me
-I’m always happy to connect and chat about projects or ideas:  
-- Email: [dudychvo@gmail.com]  
-- Phome: [+44 7402999060]
-- LinkedIn: [https://www.linkedin.com/in/volodymyr-dudych-8309b0292/)  
+#frontend #reactjs #typescript #webdevelopment
 
