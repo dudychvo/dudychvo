@@ -18,7 +18,7 @@ Frontend Developer | London, UK | React • TypeScript • SCSS
 - **Weather Dashboard**  
   Real-time weather app with responsive design and API data visualization. *Tech: React, TS, SCSS, REST APIs* | *Live demo: [https://the-weather-rho.vercel.app/]*
 
-- **Task Heroes** (Freelance)  
+- **Task Heroes**  
   Handyman service website connecting users with home repair/maintenance tasks. Features service listings, task browsing, and direct owner contact forms. *Built with scalable React components and responsive design for seamless user experience.*
 
 
